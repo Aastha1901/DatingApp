@@ -1,0 +1,8 @@
+{
+    "editor.suggest.shareSuggestSelections": true,
+    "omnisharp.defaultLaunchSolution": "DatingApp.sln",
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    }
+}
